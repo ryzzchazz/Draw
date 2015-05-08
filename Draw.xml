@@ -16,6 +16,6 @@
     </next>
   </block>
   <block type="math_number" id="32" x="414" y="63">
-    <field name="NUM">70</field>
+    <field name="NUM">30</field>
   </block>
 </xml>
